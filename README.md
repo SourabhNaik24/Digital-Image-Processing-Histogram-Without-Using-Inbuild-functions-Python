@@ -9,3 +9,5 @@ Histograms has many uses in image processing. The first use as it has also been 
 The second use of histogram is for brightness purposes. The histograms has wide application in image brightness. Not only in brightness, but histograms are also used in adjusting contrast of an image.
 Another important use of histogram is to equalize an image.
 And last but not the least, histogram has wide use in thresholding. This is mostly used in computer vision.
+
+The File Attached can be opened through Jupyter Notebook.
